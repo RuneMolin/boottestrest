@@ -1,0 +1,3 @@
+== Testing Spring Boot rest service using TestRestTemplate
+
+Notice how the service is started on a random port using `@SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)`
